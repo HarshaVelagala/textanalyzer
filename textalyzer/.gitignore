@@ -1,0 +1,18 @@
+# Streamlit app data - contains user accounts, don't commit
+app_data.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/

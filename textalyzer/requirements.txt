@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+textblob>=0.18.0
+textstat>=0.7.3
+scikit-learn>=1.4.0
+pandas>=2.0.0
+pypdf>=4.0.0
+networkx>=3.2
